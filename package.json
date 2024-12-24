@@ -45,7 +45,7 @@
     "metalsmith": "^2.5.1",
     "metalsmith-html-minifier": "^4.0.1",
     "metalsmith-if": "^0.1.1",
-    "metalsmith-prism": "^4.1.0",
+    "metalsmith-prism": "^5.0.1",
     "metalsmith-static-files": "^0.2.0"
   },
   "engines": {
